@@ -4,9 +4,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=FFFFFF&descSize=26&fontFamily=Playwrite%20England%20Joined"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=1a1a1a&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=444444&descSize=26&fontFamily=Playwrite%20England%20Joined"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=FFFFFF&descSize=26&fontFamily=Playwrite%20England%20Joined" width="100%" alt="Abhinand C — Software Engineer"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=FFFFFF&descSize=26&fontFamily=Bungee%20Shade"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=1a1a1a&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=444444&descSize=26&fontFamily=Bungee%20Shade"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=FFFFFF&descSize=26&fontFamily=Bungee%20Shade" width="100%" alt="Abhinand C — Software Engineer"/>
   </picture>
 </div>
 
@@ -133,69 +133,6 @@
   <a href="#">
     <img src="https://skillicons.dev/icons?i=js,ts,python,go,html,css&theme=dark" alt="Programming Languages"/>
   </a>
-</div>
-
-<br/>
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">GitHub Stats</h2>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abhinand2004&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&ring_color=FFD700"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Abhinand2004&show_icons=true&theme=default&hide_border=true&title_color=1a1a1a&icon_color=1a1a1a&text_color=444444"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Abhinand2004&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&ring_color=FFD700" width="49%" alt="GitHub Stats"/>
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Abhinand2004&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Abhinand2004&theme=default&hide_border=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhinand2004&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700" width="49%" alt="GitHub Streak"/>
-  </picture>
-</div>
-
-<br/>
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   GITHUB TROPHIES                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">GitHub Trophies</h2>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Abhinand2004&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Abhinand2004&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=Abhinand2004&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="GitHub Trophies"/>
-  </picture>
-</div>
-
-<br/>
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ACTIVITY GRAPH                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">Activity Graph</h2>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abhinand2004&theme=react-dark&hide_border=true&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abhinand2004&theme=minimal&hide_border=true&area=true"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinand2004&theme=react-dark&hide_border=true&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700" width="100%" alt="Activity Graph"/>
-  </picture>
 </div>
 
 <br/>
