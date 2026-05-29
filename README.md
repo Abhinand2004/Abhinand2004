@@ -189,38 +189,40 @@
 
 <br/>
 
-<table align="center" border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Current-FFD700?style=for-the-badge" alt="Current"/>
-    </td>
-    <td>
-      <strong>Software Engineer</strong> &nbsp;·&nbsp; <a href="https://codely.ai">Codely.ai</a> &nbsp;·&nbsp; Kozhikode<br/>
-      <sub>Developing scalable SaaS products and modern full-stack applications. Contributing to product architecture,
-      development workflows, and implementing optimized, maintainable solutions across the stack.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/6%20Months-1a1a1a?style=for-the-badge" alt="6 Months"/>
-    </td>
-    <td>
-      <strong>MERN Stack Developer</strong> &nbsp;·&nbsp; Softronnics &nbsp;·&nbsp; Perinthalmanna<br/>
-      <sub>Built and maintained SaaS product features across the full stack. Collaborated with development teams and
-      stakeholders to deliver robust frontend and backend solutions.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/6%20Months-1a1a1a?style=for-the-badge" alt="6 Months"/>
-    </td>
-    <td>
-      <strong>MERN Stack Developer Intern</strong> &nbsp;·&nbsp; Synnefo Solutions &nbsp;·&nbsp; Ernakulam<br/>
-      <sub>Developed and maintained full-stack web applications using MERN stack technologies.
-      Participated in feature development, debugging, and cross-functional team collaboration.</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  2024 – Present                                              Current
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🟡  Software Engineer  ·  Codely.ai  ·  Kozhikode
+      Developing scalable SaaS products and modern full-stack
+      applications. Contributing to product architecture, development
+      workflows, and implementing optimized solutions across the stack.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+          │
+          ▼
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  2023 – 2024                                               6 Months
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ⬜  MERN Stack Developer  ·  Softronnics  ·  Perinthalmanna
+      Built and maintained SaaS product features across the full stack.
+      Collaborated with teams and stakeholders to deliver robust
+      frontend and backend solutions.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+          │
+          ▼
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  2023                                                       6 Months
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ⬜  MERN Stack Developer Intern  ·  Synnefo Solutions  ·  Ernakulam
+      Developed and maintained full-stack web applications using the
+      MERN stack. Participated in feature development, debugging, and
+      cross-functional team collaboration.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
 
 <br/>
 <br/>
