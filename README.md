@@ -4,21 +4,20 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=FFFFFF&descSize=26&fontFamily=Cinzel"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=1a1a1a&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=444444&descSize=26&fontFamily=Cinzel"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=FFFFFF&descSize=26&fontFamily=Cinzel" width="100%" alt="Abhinand C — Software Engineer"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=FFFFFF&descSize=26&fontFamily=Montserrat"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=1a1a1a&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=444444&descSize=26&fontFamily=Montserrat"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=FFFFFF&descSize=26&fontFamily=Montserrat" width="100%" alt="Abhinand C — Software Engineer"/>
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=22&duration=3000&pause=1000&color=1a1a1a&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor" alt="Typing Animation"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=22&duration=3000&pause=1000&color=1a1a1a&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor" alt="Typing Animation"/>
   </picture>
 </div>
 
-<br/>
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -35,9 +34,9 @@
 
 <br/>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" border="0" cellspacing="0" cellpadding="12">
   <tr>
-    <td valign="top" width="50%" style="padding-right:16px;">
+    <td valign="top" width="50%">
 
 - Passionate about building scalable and optimized software
 - Familiar with clean architecture and industry-standard workflows
@@ -66,8 +65,7 @@
   <img src="https://img.shields.io/badge/Problem%20Solver-FFD700?style=for-the-badge" alt="Problem Solver"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Product%20Thinker-FFD700?style=for-the-badge" alt="Product Thinker"/>
-</div>
-<div align="center">
+  <br/><br/>
   <img src="https://img.shields.io/badge/Fast%20Learner-FFD700?style=for-the-badge" alt="Fast Learner"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Team%20Player-FFD700?style=for-the-badge" alt="Team Player"/>
@@ -78,7 +76,6 @@
 </div>
 
 <br/>
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     TECHNOLOGY STACK                         -->
@@ -86,41 +83,16 @@
 
 <h2 align="center">Technology Stack</h2>
 
-<h4 align="center">Frontend</h4>
-<div align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" alt="Frontend Skills"/>
-  </a>
-</div>
-
 <br/>
 
-<h4 align="center">Backend</h4>
 <div align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend Skills"/>
-  </a>
+
+| Frontend | Backend | Databases & ORM | DevOps & Tools |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" alt="Frontend"/> | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma&theme=dark" alt="Databases"/> | <img src="https://skillicons.dev/icons?i=git,github,azure,docker&theme=dark" alt="DevOps"/> |
+
 </div>
 
-<br/>
-
-<h4 align="center">Databases & ORM</h4>
-<div align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma&theme=dark" alt="Database Skills"/>
-  </a>
-</div>
-
-<br/>
-
-<h4 align="center">DevOps & Tools</h4>
-<div align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,azure,docker&theme=dark" alt="DevOps Skills"/>
-  </a>
-</div>
-
-<br/>
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -129,13 +101,12 @@
 
 <h2 align="center">Programming Languages</h2>
 
+<br/>
+
 <div align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,go,html,css&theme=dark" alt="Programming Languages"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,html,css&theme=dark" alt="Programming Languages"/>
 </div>
 
-<br/>
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -146,7 +117,7 @@
 
 <br/>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" border="0" cellspacing="0" cellpadding="16">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">WhatsApp Automation Platform</h3>
@@ -167,7 +138,6 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <br/>
       <h3 align="center">E-Commerce Platform</h3>
       <p align="center">
         A modern full-stack e-commerce solution with product management, order processing,
@@ -179,7 +149,6 @@
 </table>
 
 <br/>
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   PROFESSIONAL JOURNEY                       -->
@@ -189,7 +158,7 @@
 
 <br/>
 
-<table align="center" border="0" cellspacing="0" cellpadding="8">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/Current-FFD700?style=for-the-badge" alt="Current"/>
@@ -201,7 +170,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="120">
       <img src="https://img.shields.io/badge/6%20Months-1a1a1a?style=for-the-badge" alt="6 Months"/>
     </td>
     <td>
@@ -211,7 +180,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="120">
       <img src="https://img.shields.io/badge/6%20Months-1a1a1a?style=for-the-badge" alt="6 Months"/>
     </td>
     <td>
@@ -223,7 +192,6 @@
 </table>
 
 <br/>
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      CORE STRENGTHS                          -->
@@ -234,32 +202,29 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SaaS%20Product%20Development-1a1a1a?style=flat-square&color=1a1a1a&labelColor=FFD700&label=" alt="SaaS Product Development"/>
+  <img src="https://img.shields.io/badge/SaaS%20Product%20Development-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="SaaS Product Development"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Full--Stack%20Engineering-1a1a1a?style=flat-square&color=1a1a1a&labelColor=FFD700&label=" alt="Full-Stack Engineering"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Engineering-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Full-Stack Engineering"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Clean%20Architecture-1a1a1a?style=flat-square&color=1a1a1a&labelColor=FFD700&label=" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Clean Architecture"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Performance%20Optimization-1a1a1a?style=flat-square&color=1a1a1a&labelColor=FFD700&label=" alt="Performance Optimization"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-1a1a1a?style=flat-square&color=1a1a1a&labelColor=FFD700&label=" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Performance%20Optimization-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Performance Optimization"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Problem Solving"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Product%20Thinking-1a1a1a?style=flat-square&color=1a1a1a&labelColor=FFD700&label=" alt="Product Thinking"/>
+  <img src="https://img.shields.io/badge/Product%20Thinking-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Product Thinking"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Team%20Collaboration-1a1a1a?style=flat-square&color=1a1a1a&labelColor=FFD700&label=" alt="Team Collaboration"/>
+  <img src="https://img.shields.io/badge/Team%20Collaboration-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Team Collaboration"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Scalable%20System%20Design-1a1a1a?style=flat-square&color=1a1a1a&labelColor=FFD700&label=" alt="Scalable System Design"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Agile%20Workflows-1a1a1a?style=flat-square&color=1a1a1a&labelColor=FFD700&label=" alt="Agile Workflows"/>
+  <img src="https://img.shields.io/badge/Scalable%20System%20Design-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Scalable System Design"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Agile%20Workflows-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Agile Workflows"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Modern%20Dev%20Practices-1a1a1a?style=flat-square&color=1a1a1a&labelColor=FFD700&label=" alt="Modern Dev Practices"/>
+  <img src="https://img.shields.io/badge/Modern%20Dev%20Practices-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Modern Dev Practices"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Fast%20Learning%20%26%20Adaptability-1a1a1a?style=flat-square&color=1a1a1a&labelColor=FFD700&label=" alt="Fast Learning"/>
+  <img src="https://img.shields.io/badge/Fast%20Learning%20%26%20Adaptability-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Fast Learning"/>
 </div>
 
-<br/>
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -271,19 +236,13 @@
 <br/>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" style="padding: 24px 32px;">
-        <img src="https://img.shields.io/badge/%E2%80%9C-FFD700?style=flat-square&logoColor=black&color=FFD700" width="0" height="0" alt=""/>
-        <br/>
-        <em><strong>"Great software is built through continuous learning, clean engineering practices,<br/>
-        thoughtful problem solving, and a relentless focus on delivering value."</strong></em>
-      </td>
-    </tr>
-  </table>
+  <blockquote>
+    <p><em>"Great software is built through continuous learning,<br/>
+    clean engineering practices, thoughtful problem solving,<br/>
+    and a relentless focus on delivering value."</em></p>
+  </blockquote>
 </div>
 
-<br/>
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -312,7 +271,6 @@
   </a>
 </div>
 
-<br/>
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
