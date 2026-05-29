@@ -3,21 +3,19 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=FFFFFF&descSize=26" width="100%" alt="Abhinand C — Software Engineer"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=FFFFFF&descSize=26&fontFamily=Montserrat"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=1a1a1a&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=444444&descSize=26&fontFamily=Montserrat"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=FFFFFF&descSize=26&fontFamily=Montserrat" width="100%" alt="Abhinand C — Software Engineer"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor" alt="Typing Animation"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhinand2004&label=Profile+Views&color=FFD700&style=for-the-badge&labelColor=000000" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-FFD700?style=for-the-badge&labelColor=000000" alt="Open to Opportunities"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-SaaS%20Products-FFD700?style=for-the-badge&labelColor=000000" alt="Focus"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=1a1a1a&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor" alt="Typing Animation"/>
+  </picture>
 </div>
 
 <br/>
@@ -177,18 +175,6 @@
         customer engagement, and business process automation. Built to handle
         high-volume messaging workflows with reliability and performance.
       </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Node.js%20%7C%20PostgreSQL-1a1a1a?style=flat-square&labelColor=000000&color=1a1a1a"/>
-      </p>
-      <p align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/Live%20Demo-FFD700?style=for-the-badge&logoColor=black" alt="Live Demo"/>
-        </a>
-        &nbsp;
-        <a href="#">
-          <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-        </a>
-      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Voice Agent Platform</h3>
@@ -196,18 +182,6 @@
         An AI-powered voice automation platform enabling intelligent voice interactions,
         conversational workflows, and business automation. Designed for scalable,
         real-time voice processing and integration.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Node.js%20%7C%20MongoDB-1a1a1a?style=flat-square&labelColor=000000&color=1a1a1a"/>
-      </p>
-      <p align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/Live%20Demo-FFD700?style=for-the-badge&logoColor=black" alt="Live Demo"/>
-        </a>
-        &nbsp;
-        <a href="#">
-          <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-        </a>
       </p>
     </td>
   </tr>
@@ -219,18 +193,6 @@
         A modern full-stack e-commerce solution with product management, order processing,
         customer management, and scalable architecture. Focused on clean code design,
         performance, and a seamless user experience.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Node.js%20%7C%20PostgreSQL%20%7C%20Prisma-1a1a1a?style=flat-square&labelColor=000000&color=1a1a1a"/>
-      </p>
-      <p align="center">
-        <a href="#">
-          <img src="https://img.shields.io/badge/Live%20Demo-FFD700?style=for-the-badge&logoColor=black" alt="Live Demo"/>
-        </a>
-        &nbsp;
-        <a href="#">
-          <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-        </a>
       </p>
     </td>
   </tr>
@@ -345,35 +307,6 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">GitHub Stats</h2>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinand2004&show_icons=true&theme=github_dark&title_color=FFD700&icon_color=FFD700&border_color=30363d&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinand2004&layout=compact&theme=github_dark&title_color=FFD700&border_color=30363d&bg_color=0d1117&hide_border=false&langs_count=8" height="180" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhinand2004&theme=github-dark-blue&background=0d1117&border=30363d&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=888888&dates=888888" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinand2004&theme=github-compact&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD70022&border_color=30363d&hide_border=false" width="95%" alt="Contribution Graph"/>
-</div>
-
-<br/>
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       CONNECT                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -411,5 +344,9 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" alt="Footer"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=120&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" alt="Footer"/>
+  </picture>
 </div>
