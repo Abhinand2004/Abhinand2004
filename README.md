@@ -4,17 +4,17 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=FFFFFF&descSize=26&fontFamily=Montserrat"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=1a1a1a&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=444444&descSize=26&fontFamily=Montserrat"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=FFFFFF&descSize=26&fontFamily=Montserrat" width="100%" alt="Abhinand C — Software Engineer"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=FFFFFF&descSize=26&fontFamily=Playwrite%20England%20Joined"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=1a1a1a&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=444444&descSize=26&fontFamily=Playwrite%20England%20Joined"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Abhinand%20C&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descColor=FFFFFF&descSize=26&fontFamily=Playwrite%20England%20Joined" width="100%" alt="Abhinand C — Software Engineer"/>
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=1a1a1a&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor" alt="Typing Animation"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=22&duration=3000&pause=1000&color=1a1a1a&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor" alt="Typing Animation"/>
   </picture>
 </div>
 
@@ -88,48 +88,36 @@
 
 <h4 align="center">Frontend</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" alt="Frontend Skills"/>
+  </a>
 </div>
 
 <br/>
 
 <h4 align="center">Backend</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend Skills"/>
+  </a>
 </div>
 
 <br/>
 
 <h4 align="center">Databases & ORM</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma&theme=dark" alt="Database Skills"/>
+  </a>
 </div>
 
 <br/>
 
 <h4 align="center">DevOps & Tools</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Azure%20DevOps-1a1a1a?style=for-the-badge&logo=azuredevops&logoColor=0078D4" alt="Azure DevOps"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,github,azure,docker&theme=dark" alt="DevOps Skills"/>
+  </a>
 </div>
 
 <br/>
@@ -142,17 +130,72 @@
 <h2 align="center">Programming Languages</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,go,html,css&theme=dark" alt="Programming Languages"/>
+  </a>
+</div>
+
+<br/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">GitHub Stats</h2>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abhinand2004&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&ring_color=FFD700"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Abhinand2004&show_icons=true&theme=default&hide_border=true&title_color=1a1a1a&icon_color=1a1a1a&text_color=444444"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Abhinand2004&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&ring_color=FFD700" width="49%" alt="GitHub Stats"/>
+  </picture>
   &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Go-1a1a1a?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/HTML-1a1a1a?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS-1a1a1a?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Abhinand2004&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Abhinand2004&theme=default&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhinand2004&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700" width="49%" alt="GitHub Streak"/>
+  </picture>
+</div>
+
+<br/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   GITHUB TROPHIES                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">GitHub Trophies</h2>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Abhinand2004&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Abhinand2004&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Abhinand2004&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="GitHub Trophies"/>
+  </picture>
+</div>
+
+<br/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   ACTIVITY GRAPH                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">Activity Graph</h2>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abhinand2004&theme=react-dark&hide_border=true&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abhinand2004&theme=minimal&hide_border=true&area=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinand2004&theme=react-dark&hide_border=true&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700" width="100%" alt="Activity Graph"/>
+  </picture>
 </div>
 
 <br/>
