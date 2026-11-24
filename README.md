@@ -12,9 +12,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=22&duration=3000&pause=1000&color=1a1a1a&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=560&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+Engineer+%7C+SaaS+Builder;Problem+Solver+%7C+Product+Thinker;Continuous+Learner+%7C+Fast+Adaptor" alt="Typing Animation"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=640&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+%7C+Mobile+%7C+Forward+Deployed+Engineer;Turning+Client+Problems+into+Real+Products;Fast+Adaptor+to+New+Tech+%26+Trends"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=22&duration=3000&pause=1000&color=1a1a1a&center=true&vCenter=true&width=640&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+%7C+Mobile+%7C+Forward+Deployed+Engineer;Turning+Client+Problems+into+Real+Products;Fast+Adaptor+to+New+Tech+%26+Trends"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=640&height=50&lines=Building+%26+Scaling+SaaS+Products;Full-Stack+%7C+Mobile+%7C+Forward+Deployed+Engineer;Turning+Client+Problems+into+Real+Products;Fast+Adaptor+to+New+Tech+%26+Trends" alt="Typing Animation"/>
   </picture>
 </div>
 
@@ -27,9 +27,11 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  Software Engineer specializing in modern full-stack web applications and SaaS platforms.<br/>
-  Experienced in designing, developing, and maintaining scalable products with a strong focus on<br/>
-  performance, maintainability, and user experience.
+  Software Engineer specializing in modern full-stack web applications, React Native mobile apps, and SaaS platforms.<br/>
+  I design, build, and ship scalable products, from web dashboards to mobile apps live on the App Store and Google Play,<br/>
+  with a strong focus on performance, maintainability, and real user value.<br/><br/>
+  I work as a <strong>forward deployed engineer</strong>: I sit close to the client, understand the real problem behind the request,<br/>
+  and build the solution they actually need.
 </p>
 
 <br/>
@@ -39,15 +41,17 @@
     <td valign="top" width="50%">
 
 - Passionate about building scalable and optimized software
+- Ships production apps to the **App Store** and **Google Play**
 - Familiar with clean architecture and industry-standard workflows
 - Strong focus on code quality, maintainability, and performance
-- Enthusiastic about learning emerging technologies and trends
+- Quick to pick up emerging technologies and apply them to real products
 
     </td>
     <td valign="top" width="50%">
 
 - Adaptable, self-driven, and continuously improving
 - Comfortable collaborating in teams and owning work independently
+- Works directly with clients to understand needs and deliver tailored solutions
 - Follows modern coding standards and best practices
 - Focused on delivering high-quality, production-grade solutions
 
@@ -60,19 +64,21 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-FFD700?style=for-the-badge" alt="Full-Stack Developer"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/SaaS%20Product%20Builder-FFD700?style=for-the-badge" alt="SaaS Product Builder"/>
+  <img src="https://img.shields.io/badge/React%20Native%20Developer-FFD700?style=for-the-badge" alt="React Native Developer"/>
   &nbsp;
+  <img src="https://img.shields.io/badge/Forward%20Deployed%20Engineer-FFD700?style=for-the-badge" alt="Forward Deployed Engineer"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SaaS%20Product%20Builder-FFD700?style=for-the-badge" alt="SaaS Product Builder"/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Problem%20Solver-FFD700?style=for-the-badge" alt="Problem Solver"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Product%20Thinker-FFD700?style=for-the-badge" alt="Product Thinker"/>
-  <br/><br/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Fast%20Learner-FFD700?style=for-the-badge" alt="Fast Learner"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Team%20Player-FFD700?style=for-the-badge" alt="Team Player"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Individual%20Contributor-FFD700?style=for-the-badge" alt="Individual Contributor"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Continuous%20Learner-FFD700?style=for-the-badge" alt="Continuous Learner"/>
 </div>
 
 <br/>
@@ -87,9 +93,9 @@
 
 <div align="center">
 
-| Frontend | Backend | Databases & ORM | DevOps & Tools |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" alt="Frontend"/> | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma&theme=dark" alt="Databases"/> | <img src="https://skillicons.dev/icons?i=git,github,azure,docker&theme=dark" alt="DevOps"/> |
+| Frontend | Mobile | Backend | Databases & ORM | DevOps & Tools |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" alt="Frontend"/> | <img src="https://skillicons.dev/icons?i=react,androidstudio,firebase&theme=dark" alt="Mobile"/> | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma&theme=dark" alt="Databases"/> | <img src="https://skillicons.dev/icons?i=git,github,azure,docker&theme=dark" alt="DevOps"/> |
 
 </div>
 
@@ -105,6 +111,62 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,go,html,css&theme=dark" alt="Programming Languages"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     MOBILE DEVELOPMENT                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">Mobile App Development</h2>
+
+<p align="center">
+  Built and published <strong>React Native</strong> apps to both the <strong>Apple App Store</strong> and <strong>Google Play Store</strong>,<br/>
+  handling the full lifecycle from development to store release.
+</p>
+
+<br/>
+
+<table align="center" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td valign="top" width="50%">
+
+**Build**
+- Cross-platform apps with React Native and TypeScript
+- Reusable component architecture and clean navigation flows
+- State management, API integration, and secure authentication
+- Push notifications, deep linking, and device permissions
+- Offline handling and mobile performance optimization
+
+    </td>
+    <td valign="top" width="50%">
+
+**Ship**
+- iOS and Android builds, signing, and release configuration
+- App Store Connect and Google Play Console submissions
+- Store listing, review guidelines, and approval handling
+- Versioning, release management, and post-launch updates
+- Debugging and testing on real devices and emulators
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/>
 </div>
 
 <br/>
@@ -137,13 +199,111 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td width="50%" valign="top">
+      <h3 align="center">React Native Mobile Apps</h3>
+      <p align="center">
+        Cross-platform mobile applications built with React Native and published on both the
+        App Store and Google Play. Covers the full cycle: UI development, backend integration,
+        build signing, store submission, and ongoing releases.
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">E-Commerce Platform</h3>
       <p align="center">
         A modern full-stack e-commerce solution with product management, order processing,
         customer management, and scalable architecture. Focused on clean code design,
         performance, and a seamless user experience.
       </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                FORWARD DEPLOYED ENGINEER                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">Forward Deployed Engineering</h2>
+
+<p align="center">
+  I don't just take requirements and write code. I work alongside clients to understand<br/>
+  their business, find the real problem, and build what they actually need.
+</p>
+
+<br/>
+
+<table align="center" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <strong>1. Understand</strong><br/>
+      <sub>Work closely with the client to learn their workflow, goals, and constraints.</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <strong>2. Identify</strong><br/>
+      <sub>Find the root problem behind the request, not just the surface ask.</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <strong>3. Build</strong><br/>
+      <sub>Design and ship a tailored solution that fits their real needs.</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <strong>4. Iterate</strong><br/>
+      <sub>Deploy, gather feedback, and refine until it delivers measurable value.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Client--Centric%20Delivery-FFD700?style=flat-square&color=FFD700" alt="Client-Centric Delivery"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Requirement%20Analysis-FFD700?style=flat-square&color=FFD700" alt="Requirement Analysis"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Problem%20Discovery-FFD700?style=flat-square&color=FFD700" alt="Problem Discovery"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Custom%20Solutions-FFD700?style=flat-square&color=FFD700" alt="Custom Solutions"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Stakeholder%20Communication-FFD700?style=flat-square&color=FFD700" alt="Stakeholder Communication"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/End--to--End%20Ownership-FFD700?style=flat-square&color=FFD700" alt="End-to-End Ownership"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/On--Site%20Deployment%20Support-FFD700?style=flat-square&color=FFD700" alt="On-Site Deployment Support"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  ADAPTING TO NEW TRENDS                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">Adapting to New Trends</h2>
+
+<p align="center">
+  Technology moves fast, and I move with it. I pick up new frameworks, tools, and paradigms quickly<br/>
+  and apply them where they create real value, not just because they are new.
+</p>
+
+<br/>
+
+<table align="center" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td valign="top" width="50%">
+
+- Rapidly learning and adopting emerging tools and frameworks
+- Working with AI-driven products such as voice agents and automation
+- Moving between web, mobile, and backend as the product demands
+- Evaluating new technology on practical impact, not hype
+
+    </td>
+    <td valign="top" width="50%">
+
+- Staying current with modern engineering practices
+- Comfortable in new domains and unfamiliar codebases
+- Turning new ideas into working prototypes quickly
+- Continuously upskilling to keep solutions future-ready
+
     </td>
   </tr>
 </table>
@@ -165,8 +325,9 @@
     </td>
     <td>
       <strong>Software Engineer</strong> &nbsp;·&nbsp; <a href="https://codely.ai">Codely.ai</a> &nbsp;·&nbsp; Kozhikode<br/>
-      <sub>Developing scalable SaaS products and modern full-stack applications. Contributing to product architecture,
-      development workflows, and implementing optimized, maintainable solutions across the stack.</sub>
+      <sub>Developing scalable SaaS products, web applications, and React Native mobile apps published on the App Store and Google Play.
+      Working closely with clients as a forward deployed engineer to identify their problems and deliver tailored solutions.
+      Contributing to product architecture, development workflows, and optimized, maintainable code across the stack.</sub>
     </td>
   </tr>
   <tr>
@@ -206,6 +367,14 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Full--Stack%20Engineering-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Full-Stack Engineering"/>
   &nbsp;
+  <img src="https://img.shields.io/badge/React%20Native%20Mobile%20Apps-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="React Native Mobile Apps"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/App%20Store%20%26%20Play%20Store%20Publishing-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="App Store and Play Store Publishing"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Forward%20Deployed%20Engineering-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Forward Deployed Engineering"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Client%20Problem%20Discovery-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Client Problem Discovery"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Clean%20Architecture-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Clean Architecture"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Performance%20Optimization-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Performance Optimization"/>
@@ -221,6 +390,8 @@
   <img src="https://img.shields.io/badge/Agile%20Workflows-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Agile Workflows"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Modern%20Dev%20Practices-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Modern Dev Practices"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Adapting%20to%20New%20Trends-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Adapting to New Trends"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Fast%20Learning%20%26%20Adaptability-FFD700?style=flat-square&logoColor=black&color=FFD700" alt="Fast Learning"/>
 </div>
@@ -239,7 +410,7 @@
   <blockquote>
     <p><em>"Great software is built through continuous learning,<br/>
     clean engineering practices, thoughtful problem solving,<br/>
-    and a relentless focus on delivering value."</em></p>
+    and a relentless focus on solving the client's real problem."</em></p>
   </blockquote>
 </div>
 
@@ -278,7 +449,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <p>Open to collaborating on innovative products, scalable SaaS solutions, and impactful software projects.</p>
+  <p>Open to collaborating on innovative products, scalable SaaS solutions, mobile apps, and impactful software projects.</p>
 </div>
 
 <div align="center">
